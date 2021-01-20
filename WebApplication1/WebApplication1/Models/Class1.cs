@@ -8,5 +8,6 @@ namespace WebApplication1.Models
     public class Class1
     {
         private string fav = "HR";
+
     }
 }
