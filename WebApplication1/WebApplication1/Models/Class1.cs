@@ -7,6 +7,7 @@ namespace WebApplication1.Models
 {
     public class Class1
     {
-        private string favActor = "srk";
+        private string fav = "HR";
+
     }
 }
