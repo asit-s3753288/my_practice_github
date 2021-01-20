@@ -7,6 +7,8 @@ namespace WebApplication1.Models
 {
     public class Class
     {
-        public string name = "sanjita";
+
+        private string studentName = "Asit";
+
     }
 }
